@@ -29,6 +29,10 @@ move your dataset to hdfs
 4,6,5,7,65,78,243,567,87
 
 
+final output
+line0 Even count: 4 Odd count: 4
+line 1 Even count: 3 Odd count: 4
+line 2 Even count: 3 Odd count: 5
 
 
 
